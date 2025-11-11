@@ -1,4 +1,4 @@
-package com.buildmuse;
+package com.dsalgo;
 
 /**
  * Simple application entry used to verify the Maven setup.
